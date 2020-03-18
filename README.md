@@ -5,7 +5,7 @@ Manual Discord Rich Presence for Playstation 2 applications and games.
 
 ![prevdc](http://secret-forest.xyz/githubps2photos/photo%20(8).jpg)
 
-[Download Now]()https://github.com/Visual917/PS2RPC/releases)
+[Download Now](https://github.com/Visual917/PS2RPC/releases)
 
 Very easy to install.
 
