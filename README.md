@@ -25,7 +25,7 @@ In-app rich presence preview.
 
 ![preview](http://secret-forest.xyz/githubps2photos/photo%20(5).jpg)
 
-Update check.
+*vibe check*
 
 ![update](http://secret-forest.xyz/githubps2photos/photo%20(6).jpg)
 
