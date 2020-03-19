@@ -1,4 +1,4 @@
-# Playstation2RPC
+# PlayStation 2 RPC
 ![LOGO](http://secret-forest.xyz/githubps2photos/photo%20(3).jpg)
 
 Manual Discord Rich Presence for Playstation 2 applications and games.
