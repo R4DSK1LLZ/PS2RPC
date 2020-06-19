@@ -2,6 +2,7 @@
 ![LOGO](http://secret-forest.xyz/githubps2photos/photo%20(3).jpg)
 
 Manual Discord Rich Presence for Playstation 2 applications and games.
+
 If you can't reach Visual917#9668, try Visu#0917
 
 ![prevdc](http://secret-forest.xyz/githubps2photos/photo%20(8).jpg)
